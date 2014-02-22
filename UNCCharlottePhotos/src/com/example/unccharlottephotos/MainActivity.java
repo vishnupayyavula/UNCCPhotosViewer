@@ -1,8 +1,4 @@
-/*
- * Homework 4
- * Rakesh Reddy SannapaReddy
- * Vishnu Payyavula
- */
+
 package com.example.unccharlottephotos;
 
 import java.net.MalformedURLException;
